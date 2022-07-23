@@ -12,9 +12,9 @@
 		<OutputPath>..\..\bin\$(Configuration)\</OutputPath>
 
 		<RootNamespace>Microsoft.Extensions.Configuration</RootNamespace>
-		<AssemblyName>Microsoft.Extensions.Configuration.EnvFile.Unsupported</AssemblyName>
-		<AssemblyTitle>Microsoft.Extensions.Configuration.EnvFile.Unsupported</AssemblyTitle>
-		<Description>Reads and manages configuration values from .env file</Description>
+		<AssemblyName>BusAppCore.Configuration.EnvFile</AssemblyName>
+		<AssemblyTitle>BusAppCore.Configuration.EnvFile</AssemblyTitle>
+		<Description>Reads and manages configuration values from a .env file</Description>
 
 		<Company>Eniola Benjamin-Ade</Company>
 		<Product>BusAppCore Utilities</Product>

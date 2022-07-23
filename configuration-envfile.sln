@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Extensions.Configuration.EnvFile.Unsupported", "src\Microsoft.Extensions.Configuration.EnvFile.Unsupported\Microsoft.Extensions.Configuration.EnvFile.Unsupported.csproj", "{BE5D40C9-3D3F-4FB9-A8BE-BC6FEAC43088}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusAppCore.Configuration.EnvFile", "src\BusAppCore.Configuration.EnvFile\BusAppCore.Configuration.EnvFile.csproj", "{BE5D40C9-3D3F-4FB9-A8BE-BC6FEAC43088}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
